@@ -3,7 +3,7 @@ We used supervised learning and developed a reinforcement learning approach to l
 
 This gif is the final product: an actual run in the advanced difficulty mode of the game generated from the best predictions from the highest performing ML algorithm. The highest accuracy achieved was a 97% obstacle clearance rate at the normal game speed and 89.8% at very high speeds. The video is not sped up. 
 
-![Alt Text](https://github.com/OmkarSavant/ChromeTrex-ML/blob/master/sampleRun.gif)
+![Alt Text](https://github.com/dekauf/ChromeTrex-ML/blob/master/sampleRun.gif)
 
 A paper describing this project is here: https://www.dropbox.com/s/2fv6wsfxtymz5fr/Team%2022%20Final%20Paper.pdf?dl=0
 
